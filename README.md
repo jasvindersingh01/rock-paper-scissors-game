@@ -15,6 +15,12 @@ Play against the computer and test your luck and strategy!
 
 ---
 
+## 🚀 Click here to play
+
+👉 [Play Now](https://rock-paper-scissors-game-three-lemon.vercel.app/)
+
+---
+
 ## 📸 Screenshot
 
 <img src="./screenshot/homepage.png" alt="Game Screenshot" width="600"/>
